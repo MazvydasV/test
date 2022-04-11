@@ -1,1 +1,1 @@
-# test
+# Pirmoji GIT repozitorija
