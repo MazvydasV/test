@@ -8,16 +8,16 @@ https://git-scm.com/downloads
 1. Atsidarykite GIT CLI (GIT bash).
 2. Naudodami komandą **<cd>** pakeiskite savo darbinę kategoriją į tą, kurioje norite parsiųsti repozitoriją
 3. Parsiųskite repozitoriją:
-  git clone https://github.com/ZilvinasVidmantas/test
+  **git clone** https://github.com/ZilvinasVidmantas/test
 4. Pakeiskite darbinę kategoriją į parsiųstos repozitorijos kategoriją
-  cd test
-## Pagrindinės komandos
+  **cd test**
+ ## Pagrindinės komandos
   **git add** -> failų paruošimas patvirtinimui
-    **git add** <failo-pavadinimas> -> prideda failą nurodytu pavadinimu
+    **git add <failo-pavadinimas>** -> prideda failą nurodytu pavadinimu
     **git add .** -> Prideda visus pakitusius failus
 
   **git diff** -> skirtumas tarp dviejų failų, ar dviejų to paties failo versijų
-    **git diff** <failo-pavadinimas> ->  failo nurodytu pavadinimu pakitimai nuo paskutinio commit'o
+    **git diff <failo-pavadinimas>** ->  failo nurodytu pavadinimu pakitimai nuo paskutinio commit'o
 
   **git status** -> parodo pakitusių failų būseną
 
